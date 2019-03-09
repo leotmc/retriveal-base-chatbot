@@ -9,6 +9,9 @@ __pycache__/
 # dataset
 data/*
 
+# model
+model/*
+
 # C extensions
 *.so
 
